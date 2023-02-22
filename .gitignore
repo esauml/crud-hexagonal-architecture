@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+dist/
+.env
+
+# Archivos de autoguardado
+.vscode/
+*.code-workspace
+.DS_Store
+*.swp
+*~
+*.log
+Thumbs.db
+Desktop.ini
